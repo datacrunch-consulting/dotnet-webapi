@@ -1,0 +1,7 @@
+C:\Users\pnguyen\Documents\GitHub\webapi\bin\Debug\netcoreapp5.0\publish\webapi.exe
+C:\Users\pnguyen\Documents\GitHub\webapi\bin\Debug\netcoreapp5.0\publish\appsettings.Development.json
+C:\Users\pnguyen\Documents\GitHub\webapi\bin\Debug\netcoreapp5.0\publish\appsettings.json
+C:\Users\pnguyen\Documents\GitHub\webapi\bin\Debug\netcoreapp5.0\publish\webapi.dll
+C:\Users\pnguyen\Documents\GitHub\webapi\bin\Debug\netcoreapp5.0\publish\webapi.deps.json
+C:\Users\pnguyen\Documents\GitHub\webapi\bin\Debug\netcoreapp5.0\publish\webapi.runtimeconfig.json
+C:\Users\pnguyen\Documents\GitHub\webapi\bin\Debug\netcoreapp5.0\publish\webapi.pdb
