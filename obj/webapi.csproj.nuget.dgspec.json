@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pnguyen\\Documents\\GitHub\\webapi\\webapi.csproj": {}
+    "C:\\Users\\Peter\\Documents\\GitHub\\webapi\\webapi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pnguyen\\Documents\\GitHub\\webapi\\webapi.csproj": {
+    "C:\\Users\\Peter\\Documents\\GitHub\\webapi\\webapi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pnguyen\\Documents\\GitHub\\webapi\\webapi.csproj",
+        "projectUniqueName": "C:\\Users\\Peter\\Documents\\GitHub\\webapi\\webapi.csproj",
         "projectName": "webapi",
-        "projectPath": "C:\\Users\\pnguyen\\Documents\\GitHub\\webapi\\webapi.csproj",
-        "packagesPath": "C:\\Users\\pnguyen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pnguyen\\Documents\\GitHub\\webapi\\obj\\",
+        "projectPath": "C:\\Users\\Peter\\Documents\\GitHub\\webapi\\webapi.csproj",
+        "packagesPath": "C:\\Users\\Peter\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Peter\\Documents\\GitHub\\webapi\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\pnguyen\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Peter\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
