@@ -1,4 +1,4 @@
-# webapi
+# dotnet-webapi
 .NET 5 web API service template for Datacrunch Platform using Docker containers.  Image for Windows and Linux can be found here: https://hub.docker.com/r/pnvnd/webapi
 
 ## Microservice
